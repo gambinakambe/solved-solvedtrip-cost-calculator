@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedtrip-cost-calculator
+<br>
+Create a Drop box List for the application’s applet to include:Beginning locations (at least six)Destination locations (at least six)Vehicle size (compact, mid, luxury, SUV)Gas type (leaded, unleaded, super unleaded, diesel)Also create the following:A field for approximate milesA field for cost of gas per gallonA Submit buttonA Clear button
